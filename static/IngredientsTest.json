@@ -1,0 +1,219 @@
+{
+  "ingredients": [
+    {
+      "name": "butter",
+      "picture": "butter.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "egg",
+      "picture": "egg.jpg",
+      "category": "protein"
+    },
+    {
+      "name": "garlic",
+      "picture": "garlic.jpg",
+      "category": "vegetable"
+    },
+    {
+      "name": "milk",
+      "picture": "milk.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "onion",
+      "picture": "onion.jpg",
+      "category": "vegetable"
+    },
+    {
+      "name": "sugar",
+      "picture": "sugar.jpg",
+      "category": "sweetener"
+    },
+    {
+      "name": "flour",
+      "picture": "flour.jpg",
+      "category": "grain"
+    },
+    {
+      "name": "olive oil",
+      "picture": "olive_oil.jpg",
+      "category": "oil"
+    },
+    {
+      "name": "garlic powder",
+      "picture": "garlic_powder.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "rice",
+      "picture": "rice.jpg",
+      "category": "grain"
+    },
+    {
+      "name": "cinnamon",
+      "picture": "cinnamon.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "ketchup",
+      "picture": "ketchup.jpg",
+      "category": "condiment"
+    },
+    {
+      "name": "soy sauce",
+      "picture": "soy_sauce.jpg",
+      "category": "condiment"
+    },
+    {
+      "name": "mayonnaise",
+      "picture": "mayonnaise.jpg",
+      "category": "condiment"
+    },
+    {
+      "name": "vegetable oil",
+      "picture": "vegetable_oil.jpg",
+      "category": "oil"
+    },
+    {
+      "name": "bread",
+      "picture": "bread.jpg",
+      "category": "grain"
+    },
+    {
+      "name": "baking powder",
+      "picture": "baking_powder.jpg",
+      "category": "baking"
+    },
+    {
+      "name": "brown sugar",
+      "picture": "brown_sugar.jpg",
+      "category": "sweetener"
+    },
+    {
+      "name": "oregano",
+      "picture": "oregano.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "potato",
+      "picture": "potato.jpg",
+      "category": "vegetable"
+    },
+    {
+      "name": "honey",
+      "picture": "honey.jpg",
+      "category": "sweetener"
+    },
+    {
+      "name": "paprika",
+      "picture": "paprika.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "baking soda",
+      "picture": "baking_soda.jpg",
+      "category": "baking"
+    },
+    {
+      "name": "vanilla",
+      "picture": "vanilla.jpg",
+      "category": "flavoring"
+    },
+    {
+      "name": "spaghetti",
+      "picture": "spaghetti.jpg",
+      "category": "grain"
+    },
+    {
+      "name": "peanut butter",
+      "picture": "peanut_butter.jpg",
+      "category": "nut"
+    },
+    {
+      "name": "chili powder",
+      "picture": "chili_powder.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "cumin",
+      "picture": "cumin.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "mustard",
+      "picture": "mustard.jpg",
+      "category": "condiment"
+    },
+    {
+      "name": "chicken breast",
+      "picture": "chicken_breast.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "cheddar",
+      "picture": "cheddar.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "onion powder",
+      "picture": "onion_powder.jpg",
+      "category": "spice"
+    },
+    {
+      "name": "carrot",
+      "picture": "carrot.jpg",
+      "category": "vegetable"
+    },
+    {
+      "name": "tomato",
+      "picture": "tomato.jpg",
+      "category": "vegetable"
+    },
+    {
+      "name": "basil",
+      "picture": "basil.jpg",
+      "category": "herb"
+    },
+    {
+      "name": "parsley",
+      "picture": "parsley.jpg",
+      "category": "herb"
+    },
+    {
+      "name": "parmesan",
+      "picture": "parmesan.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "bacon",
+      "picture": "bacon.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "ground beef",
+      "picture": "ground-beef.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "ham",
+      "picture": "ham.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "pork loin",
+      "picture": "pork-loin.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "sausage",
+      "picture": "sausage.jpg",
+      "category": "meat"
+    },
+    {
+      "name": "prosciutto",
+      "picture": "prosciutto.jpg",
+      "category": "meat"
+    }
+  ]
+}
