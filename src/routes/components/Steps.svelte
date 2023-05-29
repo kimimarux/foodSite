@@ -79,7 +79,7 @@
 				<p class="text-gray-700 font-bold text-2xl lg:text-5xl lg:leading-normal">
 					Follow the recipe and enjoy your meal. <span class="bg-red-500 text-white">Or don’t.</span
 					>
-					RoboChef won’t judge you. It might even give you some tips and feedback along the way.
+					RoboChef won't judge you. It might even give you some tips and feedback along the way.
 				</p>
 			</div>
 		</div>
